@@ -24,3 +24,17 @@
 <img src="images/Screenshot (518).png" class="img-fluid"><br>
 <img src="images/Screenshot (519).png" class="img-fluid"><br>
 
+# Dashboard.jsp
+<img src="images/Screenshot (520).png" class="img-fluid"><br>
+<img src="images/Screenshot (521).png" class="img-fluid"><br>
+
+# All_Channel_Video.jsp
+<img src="images/Screenshot (522).png" class="img-fluid"><br>
+<img src="images/Screenshot (523).png" class="img-fluid"><br>
+
+# Edit_Video
+<img src="images/Screenshot (524).png" class="img-fluid"><br>
+
+# Add Video
+<img src="images/Screenshot (525).png" class="img-fluid"><br>
+
