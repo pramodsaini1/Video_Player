@@ -8,3 +8,7 @@
 
 # Index.jsp
 <img src="images/Screenshot (508).png" class="img-fluid"><br>
+<img src="images/Screenshot (510).png" class="img-fluid"><br>
+<img src="images/Screenshot (511).png" class="img-fluid"><br>
+<img src="images/Screenshot (512).png" class="img-fluid"><br>
+<img src="images/Screenshot (513).png" class="img-fluid"><br>
