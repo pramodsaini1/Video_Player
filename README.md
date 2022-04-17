@@ -5,3 +5,6 @@
 # You can Register & Login , Add Your Channel & Edit & Delete Channel,View Channel Video & Edit & Delete Channel Video,Add Video in Channel & Add Thumbnail & mp4.
 
 # You Can Play Video & Like & Dislike & View & Comment on Video ,also comment like & dislike & edit & delete
+
+# Index.jsp
+<img src="images/Screenshot (508).png" class="img-fluid"><br>
